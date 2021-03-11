@@ -12,7 +12,7 @@
 	<p>커밋후 처리방법</p>
 	<ul>
 		<li>브랜치 초기화:특정 위치로 되돌림(hard:폐기/Mixed:unstaging/soft:staging)</li>
-		<li>리버스 커잇</li>
+		<li>리버스 커밋:되돌아간 지점을 새로 커밋하는 개념</li>
 	</ul>
 </body>
 </html>
