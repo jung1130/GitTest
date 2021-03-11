@@ -12,6 +12,7 @@
 	<p>커밋후 처리방법</p>
 	<ul>
 		<li>브랜치 초기화:특정 위치로 되돌림(hard:폐기)/Mixed:unstaging/soft:staging</li>
+		<li>리버스 커잇</li>
 	</ul>
 </body>
 </html>
