@@ -14,5 +14,6 @@
 		<li>브랜치 초기화:특정 위치로 되돌림(hard:폐기/Mixed:unstaging/soft:staging)</li>
 		<li>리버스 커밋:되돌아간 지점을 새로 커밋하는 개념</li>
 	</ul>
+	<p>지금 상황에서는 신규개발 브랜치를 손대지 않는것이 좋다</p>
 </body>
 </html>
